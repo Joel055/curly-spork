@@ -1,0 +1,2 @@
+För att programmet ska funka som det är tänkt så måste exe filen köras från mappen den ligger i, alltså i samma mapp som jpg filen.
+Den hittar nämligen inte bakgrundsbilden och kraschar annars om man ändrar den under programkörningen.
